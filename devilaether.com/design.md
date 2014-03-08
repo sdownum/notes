@@ -16,6 +16,7 @@ The following is a list of desired features
 3. Version Control: The system must have a version control backend. Treat notes as code. 
 4. Storage: All notes should be kept as plain text files.
 5. Incremental Feature Development: I have ** other ** projects. I need to take notes ** now **.
+6. Timestamps: Need to persist creation and last modification time of each note.
 
 ## Ideas
 ### Scenario 1: A Workflow with a Text Editor
@@ -28,4 +29,5 @@ The following is a list of desired features
 * Commit the note to a github repo and IM the others about new notes
 * Run the note through Markdown and upload the file to a web server.
 * Commit note to github, refresh working copy on web server, run markdown on tree, publish.
+* Run markdown locally, publish generated HTML to web server.
 6. Thing is, I just want to write the note and it gets magically published.
