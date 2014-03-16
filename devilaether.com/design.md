@@ -17,6 +17,7 @@ The following is a list of desired features
 4. Storage: All notes should be kept as plain text files.
 5. Incremental Feature Development: I have ** other ** projects. I need to take notes ** now **.
 6. Timestamps: Need to persist creation and last modification time of each note.
+7. Searchable: Requires an inteface for easy content searching.
 
 ## Ideas
 ### Scenario 1: A Workflow with a Text Editor
