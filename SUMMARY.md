@@ -1,15 +1,15 @@
 # Summary
 
-* ArchLinux
+* [ArchLinux](ArchLinux/README.md)
 	* [VirtualBox](ArchLinux/DiskResizeUnderVirtualBox.md)
-* DevRoadmap
+* [DevRoadmap](DevRoadmap/README.md)
 	* [Intro](DevRoadmap/index.md)
-* blum
+* [blum](blum/README.md)
 	* [Chapter 2](blum/arduino2.md)
-* devilaether.com
+* [devilaether.com](devilaether.com/README.md)
 	* [Design](devilaether.com/design.md)
-* fortuna
+* [fortuna](fortuna/README.md)
 	* [Intro](fortuna/index.md)
-* galileo
+* [galileo](galileo/README.md)
 	* [Intro](galileo/index.md)
 	* [Building the BSP](galileo/system_build/bsp_build.md)
