@@ -1,11 +1,13 @@
 # Summary
 
-* [ArchLinux](ArchLinux/README.md)
+* [ArchLinux Notes](ArchLinux/README.md)
 	* [VirtualBox](ArchLinux/DiskResizeUnderVirtualBox.md)
-* [DevRoadmap](DevRoadmap/README.md)
+* [A Development Roadmap](DevRoadmap/README.md)
 	* [Intro](DevRoadmap/index.md)
-* [blum](blum/README.md)
-	* [Chapter 2](blum/arduino2.md)
+* [Embed Dev Journalism](edevjournal/README.md)	
+	* [April 2014](edevjournal/414.md)
+* [Blum](blum/README.md)
+	* [Chapter 2](blum/arduino2.md)	
 * [devilaether.com](devilaether.com/README.md)
 	* [Design](devilaether.com/design.md)
 * [fortuna](fortuna/README.md)
